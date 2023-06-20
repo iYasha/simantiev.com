@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on Simantiev</title>
-    <link>http://localhost/</link>
+    <link>https://ivan.simantiev.com/</link>
     <description>Recent content in About on Simantiev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Ivan Simantiev</copyright>
-    <lastBuildDate>Mon, 19 Jun 2023 20:02:53 +0300</lastBuildDate><atom:link href="http://localhost/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Jun 2023 20:02:53 +0300</lastBuildDate><atom:link href="https://ivan.simantiev.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Financyka Bot</title>
-      <link>http://localhost/projects/financyka-bot/</link>
+      <link>https://ivan.simantiev.com/projects/financyka-bot/</link>
       <pubDate>Mon, 19 Jun 2023 20:39:22 +0300</pubDate>
       
-      <guid>http://localhost/projects/financyka-bot/</guid>
+      <guid>https://ivan.simantiev.com/projects/financyka-bot/</guid>
       <description>Financyka is an Open-Source Telegram bot. The main idea is to help organize income and expenses. It uses spacy NER models to parse operations and classify categories of transactions.
 Currently, it supports a fixed categories list, but in the future count will grow. Also, it supports only one language, feel free to add more languages by sending PR to the project repository.</description>
       <content>&lt;p&gt;Financyka is an Open-Source Telegram bot. The main idea is to help organize income and expenses.
@@ -25,10 +25,10 @@ Also, it supports only one language, feel free to add more languages by sending 
     
     <item>
       <title>FastAPI Template</title>
-      <link>http://localhost/projects/fastapi-template/</link>
+      <link>https://ivan.simantiev.com/projects/fastapi-template/</link>
       <pubDate>Mon, 19 Jun 2023 19:52:00 +0300</pubDate>
       
-      <guid>http://localhost/projects/fastapi-template/</guid>
+      <guid>https://ivan.simantiev.com/projects/fastapi-template/</guid>
       <description>FastAPI Template: A template for creating FastAPI projects with best practices. FastAPI is a modern, fast and high-performance web framework for building APIs with Python. It is based on standard Python type hints and has many features to help you create robust and scalable applications.
 However, setting up a new FastAPI project can be tedious and time-consuming, especially if you want to use some common tools and best practices such as:</description>
       <content>&lt;h2 id=&#34;fastapi-template-a-template-for-creating-fastapi-projects-with-best-practices&#34;&gt;FastAPI Template: A template for creating FastAPI projects with best practices.&lt;/h2&gt;

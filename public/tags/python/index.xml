@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Python on Simantiev</title>
-    <link>http://localhost/tags/python/</link>
+    <link>https://ivan.simantiev.com/tags/python/</link>
     <description>Recent content in Python on Simantiev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Ivan Simantiev</copyright>
-    <lastBuildDate>Mon, 19 Jun 2023 19:52:00 +0300</lastBuildDate><atom:link href="http://localhost/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Jun 2023 19:52:00 +0300</lastBuildDate><atom:link href="https://ivan.simantiev.com/tags/python/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>FastAPI Template</title>
-      <link>http://localhost/projects/fastapi-template/</link>
+      <link>https://ivan.simantiev.com/projects/fastapi-template/</link>
       <pubDate>Mon, 19 Jun 2023 19:52:00 +0300</pubDate>
       
-      <guid>http://localhost/projects/fastapi-template/</guid>
+      <guid>https://ivan.simantiev.com/projects/fastapi-template/</guid>
       <description>FastAPI Template: A template for creating FastAPI projects with best practices. FastAPI is a modern, fast and high-performance web framework for building APIs with Python. It is based on standard Python type hints and has many features to help you create robust and scalable applications.
 However, setting up a new FastAPI project can be tedious and time-consuming, especially if you want to use some common tools and best practices such as:</description>
       <content>&lt;h2 id=&#34;fastapi-template-a-template-for-creating-fastapi-projects-with-best-practices&#34;&gt;FastAPI Template: A template for creating FastAPI projects with best practices.&lt;/h2&gt;

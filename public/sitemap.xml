@@ -2,30 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost/projects/financyka-bot/</loc>
+    <loc>https://ivan.simantiev.com/projects/financyka-bot/</loc>
     <lastmod>2023-06-19T20:39:22+03:00</lastmod>
   </url><url>
-    <loc>http://localhost/projects/</loc>
+    <loc>https://ivan.simantiev.com/projects/</loc>
     <lastmod>2023-06-19T20:39:22+03:00</lastmod>
   </url><url>
-    <loc>http://localhost/</loc>
+    <loc>https://ivan.simantiev.com/</loc>
     <lastmod>2023-06-19T20:02:53+03:00</lastmod>
   </url><url>
-    <loc>http://localhost/tags/fastapi/</loc>
+    <loc>https://ivan.simantiev.com/tags/fastapi/</loc>
     <lastmod>2023-06-19T19:52:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost/projects/fastapi-template/</loc>
+    <loc>https://ivan.simantiev.com/projects/fastapi-template/</loc>
     <lastmod>2023-06-19T19:52:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost/tags/python/</loc>
+    <loc>https://ivan.simantiev.com/tags/python/</loc>
     <lastmod>2023-06-19T19:52:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost/tags/</loc>
+    <loc>https://ivan.simantiev.com/tags/</loc>
     <lastmod>2023-06-19T19:52:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost/tags/template/</loc>
+    <loc>https://ivan.simantiev.com/tags/template/</loc>
     <lastmod>2023-06-19T19:52:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost/categories/</loc>
+    <loc>https://ivan.simantiev.com/categories/</loc>
   </url>
 </urlset>

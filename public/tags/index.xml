@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Simantiev</title>
-    <link>http://localhost/tags/</link>
+    <link>https://ivan.simantiev.com/tags/</link>
     <description>Recent content in Tags on Simantiev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Ivan Simantiev</copyright>
-    <lastBuildDate>Mon, 19 Jun 2023 19:52:00 +0300</lastBuildDate><atom:link href="http://localhost/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Jun 2023 19:52:00 +0300</lastBuildDate><atom:link href="https://ivan.simantiev.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>FastAPI</title>
-      <link>http://localhost/tags/fastapi/</link>
+      <link>https://ivan.simantiev.com/tags/fastapi/</link>
       <pubDate>Mon, 19 Jun 2023 19:52:00 +0300</pubDate>
       
-      <guid>http://localhost/tags/fastapi/</guid>
+      <guid>https://ivan.simantiev.com/tags/fastapi/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>Python</title>
-      <link>http://localhost/tags/python/</link>
+      <link>https://ivan.simantiev.com/tags/python/</link>
       <pubDate>Mon, 19 Jun 2023 19:52:00 +0300</pubDate>
       
-      <guid>http://localhost/tags/python/</guid>
+      <guid>https://ivan.simantiev.com/tags/python/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>Template</title>
-      <link>http://localhost/tags/template/</link>
+      <link>https://ivan.simantiev.com/tags/template/</link>
       <pubDate>Mon, 19 Jun 2023 19:52:00 +0300</pubDate>
       
-      <guid>http://localhost/tags/template/</guid>
+      <guid>https://ivan.simantiev.com/tags/template/</guid>
       <description></description>
       <content></content>
     </item>
