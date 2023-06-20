@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on Simantiev</title>
+    <link>http://localhost/tags/python/</link>
+    <description>Recent content in Python on Simantiev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Ivan Simantiev</copyright>
+    <lastBuildDate>Mon, 19 Jun 2023 19:52:00 +0300</lastBuildDate><atom:link href="http://localhost/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FastAPI Template</title>
+      <link>http://localhost/projects/fastapi-template/</link>
+      <pubDate>Mon, 19 Jun 2023 19:52:00 +0300</pubDate>
+      
+      <guid>http://localhost/projects/fastapi-template/</guid>
+      <description>FastAPI Template: A template for creating FastAPI projects with best practices. FastAPI is a modern, fast and high-performance web framework for building APIs with Python. It is based on standard Python type hints and has many features to help you create robust and scalable applications.
+However, setting up a new FastAPI project can be tedious and time-consuming, especially if you want to use some common tools and best practices such as:</description>
+      <content>&lt;h2 id=&#34;fastapi-template-a-template-for-creating-fastapi-projects-with-best-practices&#34;&gt;FastAPI Template: A template for creating FastAPI projects with best practices.&lt;/h2&gt;
+&lt;p&gt;FastAPI is a modern, fast and high-performance web framework for building APIs with Python. It is based on standard Python type hints and has many features to help you create robust and scalable applications.&lt;/p&gt;
+&lt;p&gt;However, setting up a new FastAPI project can be tedious and time-consuming, especially if you want to use some common tools and best practices such as:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Pydantic for data validation and serialization&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;SQLAlchemy for database access and migrations&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;JWT for authentication and authorization&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Alembic to manage database migrations&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A settings file to configure your application&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A manage.py cli for runnig the application, making migrations, migrating and creating users&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;•  A clean architecture folder structure to organize your code&lt;/p&gt;
+&lt;p&gt;That&amp;rsquo;s why I created &lt;a href=&#34;https://github.com/iYasha/fastapi-template&#34;&gt;https://github.com/iYasha/fastapi-template&lt;/a&gt;, a template that gives you a ready-to-use FastAPI project with all these features and more.&lt;/p&gt;
+&lt;h2 id=&#34;how-to-use-fastapi-template&#34;&gt;How to use FastAPI Template.&lt;/h2&gt;
+&lt;p&gt;Using FastAPI Template is very simple. You just need to clone the repository, install the dependencies, and run the manage.py command. Here are the steps:&lt;/p&gt;
+&lt;p&gt;Clone the repository:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;git clone https://github.com/iYasha/fastapi-template.git
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Install the dependencies:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;pip install -r requirements.txt
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Run the manage.py command:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;python manage.py runserver
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;This will start the application at http://localhost:8000.&lt;/p&gt;
+&lt;p&gt;For more details, check the README file in the repository.&lt;/p&gt;
+&lt;h2 id=&#34;whats-included-in-fastapi-template&#34;&gt;What&amp;rsquo;s included in FastAPI Template&lt;/h2&gt;
+&lt;p&gt;FastAPI Template comes with a lot of features and tools that will help you develop your FastAPI project faster and easier. Here are some of them:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;A backend API using FastAPI, Uvicorn and Gunicorn&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A PostgreSQL database with SQLAlchemy ORM and Alembic migrations&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A Pydantic model for user data validation and serialization&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A JWT authentication and authorization system with middlewares&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A settings file to configure your application using environment variables&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A clean architecture folder structure to organize your code into models, repositories, services, schemas, routers and utils&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A Swagger UI documentation for the API endpoints at http://localhost:8000/docs&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;why-use-fastapi-template&#34;&gt;Why use FastAPI Template&lt;/h2&gt;
+&lt;p&gt;FastAPI Template is not the only template for FastAPI. There are other options such as &lt;a href=&#34;https://github.com/tiangolo/full-stack-fastapi-postgresql&#34;&gt;https://github.com/tiangolo/full-stack-fastapi-postgresql&lt;/a&gt; by Tiangolo (the creator of FastAPI) or &lt;a href=&#34;https://github.com/tiangolo/full-stack-fastapi-postgresql&#34;&gt;https://github.com/tiangolo/full-stack-fastapi-postgresql&lt;/a&gt; by Sebastián Ramírez (the author of this article).&lt;/p&gt;
+&lt;p&gt;However, I think FastAPI Template has some advantages over them, such as:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;It is simpler and more minimalistic, focusing on the essential features and tools for a FastAPI project&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;It is more flexible and customizable, allowing you to choose your own frontend framework, database engine, ORM library, or tool that you want&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;It follows a clean architecture pattern, separating the different layers of your application into models, repositories, services, schemas, routers and utils&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;It uses Pydantic for data validation and serialization, which is more consistent and compatible with FastAPI than other libraries such as Marshmallow or Serpy&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;It uses Alembic for database migrations, which is more powerful and reliable than other libraries such as Flask-Migrate or Django-Migrate&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Of course, these are just my personal preferences and opinions. You may have different ones, and that&amp;rsquo;s totally fine. The beauty of FastAPI is that it lets you use any template engine, database, frontend framework, or tool that you want.&lt;/p&gt;
+&lt;p&gt;That&amp;rsquo;s why I encourage you to check out FastAPI Template and see if it suits your needs and preferences. And if you have any feedback, suggestions, or issues, please feel free to open an issue or a pull request on GitHub. I would love to hear from you and improve the template.&lt;/p&gt;
+&lt;p&gt;Conclusion
+FastAPI Template is a template that gives you a ready-to-use FastAPI project with best practices. It can save you a lot of time and effort when starting a new FastAPI project, and help you create robust and scalable applications.&lt;/p&gt;
+&lt;p&gt;I hope you find it useful and enjoy using it. And if you do, please consider giving it a star on GitHub and sharing it with your friends and colleagues. Thank you!&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
