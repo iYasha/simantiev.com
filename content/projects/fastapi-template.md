@@ -5,7 +5,7 @@ author = "Ivan Simantiev"
 authorTwitter = "" #do not include @
 cover = ""
 tags = ["FastAPI", "Python", "Template"]
-keywords = ["", ""]
+keywords = ["fastapi", "template", "python"]
 description = ""
 showFullContent = false
 readingTime = false
@@ -35,24 +35,17 @@ However, setting up a new FastAPI project can be tedious and time-consuming, esp
 That's why I created https://github.com/iYasha/fastapi-template, a template that gives you a ready-to-use FastAPI project with all these features and more.
 
 ## How to use FastAPI Template.
-Using FastAPI Template is very simple. You just need to clone the repository, install the dependencies, and run the manage.py command. Here are the steps:
+Using FastAPI Template is very simple.
 
-Clone the repository:
+First, install cookiecutter if you don't already have it:
 ```bash
-git clone https://github.com/iYasha/fastapi-template.git
+pip3 install cookiecutter
 ```
 
-Install the dependencies:
+Generate your project:
 ```bash
-pip install -r requirements.txt
+cookiecutter https://github.com/iyasha/fastapi-template.git
 ```
-
-Run the manage.py command:
-```bash
-python manage.py runserver
-```
-
-This will start the application at http://localhost:8000.
 
 For more details, check the README file in the repository.
 

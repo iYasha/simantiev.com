@@ -42,15 +42,12 @@ However, setting up a new FastAPI project can be tedious and time-consuming, esp
 &lt;p&gt;•  A clean architecture folder structure to organize your code&lt;/p&gt;
 &lt;p&gt;That&amp;rsquo;s why I created &lt;a href=&#34;https://github.com/iYasha/fastapi-template&#34;&gt;https://github.com/iYasha/fastapi-template&lt;/a&gt;, a template that gives you a ready-to-use FastAPI project with all these features and more.&lt;/p&gt;
 &lt;h2 id=&#34;how-to-use-fastapi-template&#34;&gt;How to use FastAPI Template.&lt;/h2&gt;
-&lt;p&gt;Using FastAPI Template is very simple. You just need to clone the repository, install the dependencies, and run the manage.py command. Here are the steps:&lt;/p&gt;
-&lt;p&gt;Clone the repository:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;git clone https://github.com/iYasha/fastapi-template.git
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Install the dependencies:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;pip install -r requirements.txt
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Run the manage.py command:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;python manage.py runserver
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;This will start the application at http://localhost:8000.&lt;/p&gt;
-&lt;p&gt;For more details, check the README file in the repository.&lt;/p&gt;
+&lt;p&gt;Using FastAPI Template is very simple.&lt;/p&gt;
+&lt;p&gt;First, install cookiecutter if you don&amp;rsquo;t already have it:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;pip3 install cookiecutter
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Generate your project:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;cookiecutter https://github.com/iyasha/fastapi-template.git
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;For more details, check the README file in the repository.&lt;/p&gt;
 &lt;h2 id=&#34;whats-included-in-fastapi-template&#34;&gt;What&amp;rsquo;s included in FastAPI Template&lt;/h2&gt;
 &lt;p&gt;FastAPI Template comes with a lot of features and tools that will help you develop your FastAPI project faster and easier. Here are some of them:&lt;/p&gt;
 &lt;ul&gt;
